@@ -22,4 +22,4 @@ spec:
           image: docker.io/phengbunath/react-vite-landing-page-d840b523:1
           imagePullPolicy: Always
           ports:
-            - containerPort: 5173
+            - containerPort: 3000
