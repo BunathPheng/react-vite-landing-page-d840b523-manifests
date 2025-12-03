@@ -18,4 +18,4 @@ spec:
               service:
                 name: react-vite-landing-page-d840b523               # Links to Service name dynamically
                 port:
-                  number: 5173  # Links to service port dynamically
+                  number: 3000  # Links to service port dynamically
